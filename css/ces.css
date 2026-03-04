@@ -28,6 +28,8 @@ body{
 	display: flex;
 	justify-content: center;
 	flex-wrap: wrap;
+	align-items: center;
+	text-align: center;
 }
 #quadrado{
 	display: flex;
@@ -128,4 +130,5 @@ iframe{
 	border-color: #eb7e02;
 
 }
+
 
