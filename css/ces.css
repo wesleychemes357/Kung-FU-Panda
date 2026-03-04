@@ -1,4 +1,6 @@
 body{
+	align-items: center;
+	justify-itens: center;
 	font-family: sans-serif;
 	background-color: #eb7e02;
 	text-align: center;
@@ -126,3 +128,4 @@ iframe{
 	border-color: #eb7e02;
 
 }
+
